@@ -6,28 +6,27 @@
     <description>Recent content in Posts on Nooraizad Zailani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Copyright notice</copyright>
-    <lastBuildDate>Sun, 19 Apr 2020 12:16:27 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2020 15:22:17 +0800</lastBuildDate>
     
 	<atom:link href="https://nooraizad.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Covid19 Dashboard</title>
-      <link>https://nooraizad.github.io/posts/covid19_dashboard/</link>
-      <pubDate>Sun, 19 Apr 2020 12:16:27 +0800</pubDate>
+      <link>https://nooraizad.github.io/posts/post02/</link>
+      <pubDate>Tue, 21 Apr 2020 15:22:17 +0800</pubDate>
       
-      <guid>https://nooraizad.github.io/posts/covid19_dashboard/</guid>
-      <description>Hi everyone. I have created a simple and straightforward Tableau dashboard about COVID-19. The dashboard focuses on Malaysia data, but there is an overview of worldwide cases. The dashboard consists of two pages, the first page showing a world map with tooltips displaying the number of cases, deaths and recovered in each country. At the top of the map, there is the information of total cases, total deaths and total recovered worldwide.</description>
+      <guid>https://nooraizad.github.io/posts/post02/</guid>
+      <description>Hi everyone. I have created a simple and straightforward Tableau dashboard about COVID-19.</description>
     </item>
     
     <item>
       <title>Hello world!</title>
-      <link>https://nooraizad.github.io/posts/helloworld/</link>
+      <link>https://nooraizad.github.io/posts/post01/</link>
       <pubDate>Thu, 02 Apr 2020 23:02:04 +0800</pubDate>
       
-      <guid>https://nooraizad.github.io/posts/helloworld/</guid>
-      <description>Welcome to nooraizad.com. My name is Muhammad Nooraizad. In this blog, I will be writing about data science, data analysis, personal project, my interest and personal lives. However, the content here will be focusing on data science as I have a deep interest in it. I enjoyed derive meaningful insight from data and presented the findings to the audience. Data science is an exciting field, and it keeps evolving every day as we are speaking.</description>
+      <guid>https://nooraizad.github.io/posts/post01/</guid>
+      <description>Welcome to nooraizad.com. My name is Muhammad Nooraizad. In this blog, I will be writing about data science, data analysis, personal project, my interest and personal lives.</description>
     </item>
     
   </channel>
