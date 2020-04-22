@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nooraizad Zailani</title>
-    <link>https://nooraizad.github.io/</link>
+    <link>nooraizad.github.io/</link>
     <description>Recent content on Nooraizad Zailani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Apr 2020 15:22:17 +0800</lastBuildDate>
     
-	<atom:link href="https://nooraizad.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="nooraizad.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Covid19 Dashboard</title>
-      <link>https://nooraizad.github.io/posts/post02/</link>
+      <link>nooraizad.github.io/posts/post02/</link>
       <pubDate>Tue, 21 Apr 2020 15:22:17 +0800</pubDate>
       
-      <guid>https://nooraizad.github.io/posts/post02/</guid>
+      <guid>nooraizad.github.io/posts/post02/</guid>
       <description>Hi everyone. I have created a simple and straightforward Tableau dashboard about COVID-19.</description>
     </item>
     
     <item>
       <title>Hello world!</title>
-      <link>https://nooraizad.github.io/posts/post01/</link>
+      <link>nooraizad.github.io/posts/post01/</link>
       <pubDate>Thu, 02 Apr 2020 23:02:04 +0800</pubDate>
       
-      <guid>https://nooraizad.github.io/posts/post01/</guid>
+      <guid>nooraizad.github.io/posts/post01/</guid>
       <description>Welcome to nooraizad.com. My name is Muhammad Nooraizad. In this blog, I will be writing about data science, data analysis, personal project, my interest and personal lives.</description>
     </item>
     
