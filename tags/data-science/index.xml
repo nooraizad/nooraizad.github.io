@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science on Nooraizad Zailani</title>
+    <link>http://nooraizad.github.io/tags/data-science/</link>
+    <description>Recent content in Data Science on Nooraizad Zailani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This is a customized copyright.</copyright>
+    <lastBuildDate>Tue, 21 Apr 2020 15:22:17 +0800</lastBuildDate>
+    
+	<atom:link href="http://nooraizad.github.io/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>COVID-19 Dashboard</title>
+      <link>http://nooraizad.github.io/posts/post02/</link>
+      <pubDate>Tue, 21 Apr 2020 15:22:17 +0800</pubDate>
+      
+      <guid>http://nooraizad.github.io/posts/post02/</guid>
+      <description>Hi everyone. I have created a simple and straightforward Tableau dashboard about COVID-19. The dashboard focuses on Malaysia data, but there is an overview of worldwide cases. The dashboard consists of two pages, the first page showing a world map with tooltips displaying the number of cases, deaths and recovered in each country. At the top of the map, there is the information of total cases, total deaths and total recovered worldwide.</description>
+    </item>
+    
+  </channel>
+</rss>
