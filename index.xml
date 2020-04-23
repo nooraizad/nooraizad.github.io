@@ -1,25 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nooraizad Zailani</title>
-    <link>/</link>
+    <link>https://nooraizad.github.io/</link>
     <description>Recent content on Nooraizad Zailani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>©2019 Nooraizad.</copyright>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 21 Apr 2020 15:22:17 +0800</lastBuildDate>
     
-        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nooraizad.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Posts</title>
-      <link>/posts/</link>
+      <title>COVID-19 Dashboard</title>
+      <link>https://nooraizad.github.io/posts/post02/</link>
       <pubDate>Tue, 21 Apr 2020 15:22:17 +0800</pubDate>
       
-      <guid>/posts/</guid>
-      <description></description>
+      <guid>https://nooraizad.github.io/posts/post02/</guid>
+      <description>Hi everyone. I have created a simple and straightforward Tableau dashboard about COVID-19. The dashboard focuses on Malaysia data, but there is an overview of worldwide cases. The dashboard consists of two pages, the first page showing a world map with tooltips displaying the number of cases, deaths and recovered in each country. At the top of the map, there is the information of total cases, total deaths and total recovered worldwide.</description>
+    </item>
+    
+    <item>
+      <title>Hello world!</title>
+      <link>https://nooraizad.github.io/posts/post01/</link>
+      <pubDate>Thu, 02 Apr 2020 23:02:04 +0800</pubDate>
       
+      <guid>https://nooraizad.github.io/posts/post01/</guid>
+      <description>Welcome to nooraizad.com. My name is Muhammad Nooraizad. In this blog, I will be writing about data science, data analysis, personal project, my interest and personal lives. However, the content here will be focusing on data science as I have a deep interest in it. I enjoyed derive meaningful insight from data and presented the findings to the audience. Data science is an exciting field, and it keeps evolving every day as we are speaking.</description>
     </item>
     
   </channel>
