@@ -1,24 +1,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nooraizad Zailani</title>
-    <link>http://nooraizad.github.io/</link>
+    <link>nooraizad.github.io/</link>
     <description>Recent content on Nooraizad Zailani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
     <lastBuildDate>Tue, 21 Apr 2020 15:22:17 +0800</lastBuildDate>
     
-        <atom:link href="http://nooraizad.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="nooraizad.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     
         <item>
         <title>COVID-19 Dashboard</title>
-        <link>http://nooraizad.github.io/posts/post02/</link>
+        <link>nooraizad.github.io/posts/post02/</link>
         <pubDate>Tue, 21 Apr 2020 15:22:17 +0800</pubDate>
         
-        <guid>http://nooraizad.github.io/posts/post02/</guid>
-        <description>Nooraizad Zailani http://nooraizad.github.io/posts/post02/ -&lt;p&gt;Hi everyone. I have created a simple and straightforward Tableau dashboard about COVID-19. The dashboard focuses on Malaysia data, but there is an overview of worldwide cases. The dashboard consists of two pages, the first page showing a world map with tooltips displaying the number of cases, deaths and recovered in each country. At the top of the map, there is the information of total cases, total deaths and total recovered worldwide. Below the map, there is a table with countries, cases, deaths and recovered cases. There is also a filter by country, to filter the page to get single or multiple countries.&lt;/p&gt;
+        <guid>nooraizad.github.io/posts/post02/</guid>
+        <description>Nooraizad Zailani nooraizad.github.io/posts/post02/ -&lt;p&gt;Hi everyone. I have created a simple and straightforward Tableau dashboard about COVID-19. The dashboard focuses on Malaysia data, but there is an overview of worldwide cases. The dashboard consists of two pages, the first page showing a world map with tooltips displaying the number of cases, deaths and recovered in each country. At the top of the map, there is the information of total cases, total deaths and total recovered worldwide. Below the map, there is a table with countries, cases, deaths and recovered cases. There is also a filter by country, to filter the page to get single or multiple countries.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://nooraizad.github.io/covid1.png&#34; alt=&#34;Page 1&#34; /&gt;&lt;/p&gt;
 
@@ -35,25 +35,25 @@ The dashboard that I have created is simple and straightforward. But I believed 
 
 &lt;p&gt;Until next time, cheers.
  &lt;/p&gt;
-- http://nooraizad.github.io/posts/post02/ - This is a customized copyright.</description>
+- nooraizad.github.io/posts/post02/ - This is a customized copyright.</description>
         </item>
     
     
     
         <item>
         <title>Hello world!</title>
-        <link>http://nooraizad.github.io/posts/post01/</link>
+        <link>nooraizad.github.io/posts/post01/</link>
         <pubDate>Thu, 02 Apr 2020 23:02:04 +0800</pubDate>
         
-        <guid>http://nooraizad.github.io/posts/post01/</guid>
-        <description>Nooraizad Zailani http://nooraizad.github.io/posts/post01/ -&lt;p&gt;Welcome to nooraizad.com. My name is Muhammad Nooraizad. In this blog, I will be writing about data science, data analysis, personal project, my interest and personal lives. However, the content here will be focusing on data science as I have a deep interest in it. I enjoyed derive meaningful insight from data and presented the findings to the audience. Data science is an exciting field, and it keeps evolving every day as we are speaking. We can see many application of data science that helped us to solve real life problem. I will be sharing my works here, hoping it can be beneficial to readers and also for me to keep track things I have learned.&lt;/p&gt;
+        <guid>nooraizad.github.io/posts/post01/</guid>
+        <description>Nooraizad Zailani nooraizad.github.io/posts/post01/ -&lt;p&gt;Welcome to nooraizad.com. My name is Muhammad Nooraizad. In this blog, I will be writing about data science, data analysis, personal project, my interest and personal lives. However, the content here will be focusing on data science as I have a deep interest in it. I enjoyed derive meaningful insight from data and presented the findings to the audience. Data science is an exciting field, and it keeps evolving every day as we are speaking. We can see many application of data science that helped us to solve real life problem. I will be sharing my works here, hoping it can be beneficial to readers and also for me to keep track things I have learned.&lt;/p&gt;
 
 &lt;p&gt;I am based in Kuala Lumpur, Malaysia and working in the information technology sector. I enjoyed reading fantasy genre novels, watching Netflix and spending my time with my family. I used to play Dota 2 a lot. Nowadays, I am not able to play as much as I wanted due to time limitation and now I enjoyed watching Dota 2 tournament.&lt;/p&gt;
 
 &lt;p&gt;I am looking forward to connect with readers.&lt;/p&gt;
 
 &lt;p&gt;Cheers&lt;/p&gt;
-- http://nooraizad.github.io/posts/post01/ - This is a customized copyright.</description>
+- nooraizad.github.io/posts/post01/ - This is a customized copyright.</description>
         </item>
     
     
