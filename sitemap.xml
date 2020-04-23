@@ -3,27 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>nooraizad.github.io/posts/post02/</loc>
+    <loc>http://nooraizad.github.io/posts/post02/</loc>
     <lastmod>2020-04-21T15:22:17+08:00</lastmod>
   </url>
   
   <url>
-    <loc>nooraizad.github.io/</loc>
+    <loc>http://nooraizad.github.io/tags/data-science/</loc>
     <lastmod>2020-04-21T15:22:17+08:00</lastmod>
   </url>
   
   <url>
-    <loc>nooraizad.github.io/posts/</loc>
+    <loc>http://nooraizad.github.io/</loc>
     <lastmod>2020-04-21T15:22:17+08:00</lastmod>
   </url>
   
   <url>
-    <loc>nooraizad.github.io/posts/post01/</loc>
+    <loc>http://nooraizad.github.io/posts/</loc>
+    <lastmod>2020-04-21T15:22:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nooraizad.github.io/tags/</loc>
+    <lastmod>2020-04-21T15:22:17+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nooraizad.github.io/posts/post01/</loc>
     <lastmod>2020-04-02T23:02:04+08:00</lastmod>
   </url>
   
   <url>
-    <loc>nooraizad.github.io/tags/</loc>
+    <loc>http://nooraizad.github.io/tags/personal/</loc>
+    <lastmod>2020-04-02T23:02:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nooraizad.github.io/categories/</loc>
   </url>
   
 </urlset>

@@ -1,33 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nooraizad Zailani</title>
-    <link>nooraizad.github.io/</link>
+    <link>http://nooraizad.github.io/</link>
     <description>Recent content on Nooraizad Zailani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>This is a customized copyright.</copyright>
     <lastBuildDate>Tue, 21 Apr 2020 15:22:17 +0800</lastBuildDate>
     
-	<atom:link href="nooraizad.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://nooraizad.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>Covid19 Dashboard</title>
-      <link>nooraizad.github.io/posts/post02/</link>
-      <pubDate>Tue, 21 Apr 2020 15:22:17 +0800</pubDate>
-      
-      <guid>nooraizad.github.io/posts/post02/</guid>
-      <description>Hi everyone. I have created a simple and straightforward Tableau dashboard about COVID-19.</description>
-    </item>
     
-    <item>
-      <title>Hello world!</title>
-      <link>nooraizad.github.io/posts/post01/</link>
-      <pubDate>Thu, 02 Apr 2020 23:02:04 +0800</pubDate>
-      
-      <guid>nooraizad.github.io/posts/post01/</guid>
-      <description>Welcome to nooraizad.com. My name is Muhammad Nooraizad. In this blog, I will be writing about data science, data analysis, personal project, my interest and personal lives.</description>
-    </item>
+        <item>
+        <title>COVID-19 Dashboard</title>
+        <link>http://nooraizad.github.io/posts/post02/</link>
+        <pubDate>Tue, 21 Apr 2020 15:22:17 +0800</pubDate>
+        
+        <guid>http://nooraizad.github.io/posts/post02/</guid>
+        <description>Nooraizad Zailani http://nooraizad.github.io/posts/post02/ -&lt;p&gt;Hi everyone. I have created a simple and straightforward Tableau dashboard about COVID-19. The dashboard focuses on Malaysia data, but there is an overview of worldwide cases. The dashboard consists of two pages, the first page showing a world map with tooltips displaying the number of cases, deaths and recovered in each country. At the top of the map, there is the information of total cases, total deaths and total recovered worldwide. Below the map, there is a table with countries, cases, deaths and recovered cases. There is also a filter by country, to filter the page to get single or multiple countries.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://nooraizad.github.io/covid1.png&#34; alt=&#34;Page 1&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The next page of the dashboard focussing on Malaysia COVID-19 cases. Like the first page, there is a map of Malaysia. By hovering into different states, users can see the number of cases, deaths and recovered in each state. There are 3 line charts daily of total case, deaths and recovered in Malaysia. From this chart, we can observe the daily numbers of each case in Malaysia. Then, we have a table of state, total case, total death and mortality rate for each state. The mortality rate is defined as the number of death in a population. It is calculated from the number of death divided by the number of cases of COVID-19. Users can sort the table by clicking at the header name. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://nooraizad.github.io/covid2.png&#34; alt=&#34;Page 2&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On data collection, I am using python with BeautifulSoup package to crawl data from &lt;a href=&#34;https://www.worldometers.info/coronavirus/ and&#34;&gt;https://www.worldometers.info/coronavirus/ and&lt;/a&gt; stored them in a csv file. For data on Malaysia cases, I crawled the data from various sites such as &lt;a href=&#34;https://www.outbreak.my/ and &#34;&gt;https://www.outbreak.my/ and &lt;/a&gt;&lt;a href=&#34;https://www.thestar.com.my/news/nation/2020/03/23/covid-19-current-situation-in-malaysia-updated-daily&#34;&gt;https://www.thestar.com.my/news/nation/2020/03/23/covid-19-current-situation-in-malaysia-updated-daily&lt;/a&gt;. The code can be found here &lt;a href=&#34;https://github.com/nooraizad/Basic-Web-Scrapper&#34;&gt;https://github.com/nooraizad/Basic-Web-Scrapper&lt;/a&gt;. The csv files later will be used at Tableau to create the visualisation. &lt;/p&gt;
+
+&lt;p&gt;For data refresh, I run the script daily. The script is run every day at 9:00 pm Malaysian time. I am looking method to run the script automatically, and then the data source will be consumed by Tableau automatically. Based on my findings, I can achieve this by setting up a pipeline in Azure Data Factory, host my Python script there and setup a schedule so that the pipeline will be run daily. I will be starting to explore Azure Data Factory and will share the findings. 
+The dashboard that I have created is simple and straightforward. But I believed it has the critical measurement that we would like to know about the COVID-19. I might add more features and measurement in the future. Any idea and suggestion are welcome. &lt;/p&gt;
+
+&lt;p&gt;Kaggle is hosting COVID-19 Open Research Dataset Challenge. The competition challenge data scientist to provide meaningful insight about COVID-19. I think every data scientist should join the competition and contribute to the community on the findings. Together, we fight this pandemic by staying at home and play our role as a data scientist to help provide results and insight that will be beneficial to everyone. I am joining the competition and will be sharing my findings in my future post.&lt;/p&gt;
+
+&lt;p&gt;Until next time, cheers.
+ &lt;/p&gt;
+- http://nooraizad.github.io/posts/post02/ - This is a customized copyright.</description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Hello world!</title>
+        <link>http://nooraizad.github.io/posts/post01/</link>
+        <pubDate>Thu, 02 Apr 2020 23:02:04 +0800</pubDate>
+        
+        <guid>http://nooraizad.github.io/posts/post01/</guid>
+        <description>Nooraizad Zailani http://nooraizad.github.io/posts/post01/ -&lt;p&gt;Welcome to nooraizad.com. My name is Muhammad Nooraizad. In this blog, I will be writing about data science, data analysis, personal project, my interest and personal lives. However, the content here will be focusing on data science as I have a deep interest in it. I enjoyed derive meaningful insight from data and presented the findings to the audience. Data science is an exciting field, and it keeps evolving every day as we are speaking. We can see many application of data science that helped us to solve real life problem. I will be sharing my works here, hoping it can be beneficial to readers and also for me to keep track things I have learned.&lt;/p&gt;
+
+&lt;p&gt;I am based in Kuala Lumpur, Malaysia and working in the information technology sector. I enjoyed reading fantasy genre novels, watching Netflix and spending my time with my family. I used to play Dota 2 a lot. Nowadays, I am not able to play as much as I wanted due to time limitation and now I enjoyed watching Dota 2 tournament.&lt;/p&gt;
+
+&lt;p&gt;I am looking forward to connect with readers.&lt;/p&gt;
+
+&lt;p&gt;Cheers&lt;/p&gt;
+- http://nooraizad.github.io/posts/post01/ - This is a customized copyright.</description>
+        </item>
+    
     
   </channel>
-</rss>
+</rss> 
