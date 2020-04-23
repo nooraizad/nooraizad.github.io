@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en"><meta charset="utf-8"><meta name="generator" content="Hugo 0.59.0" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="supported-color-schemes" content="light dark"><title>COVID-19 Dashboard&nbsp;&ndash;&nbsp;Nooraizad Zailani</title><link rel="stylesheet" href="/nooraizad.github.io/css/core.min.5e7cc3993401eedb51a6511e3b007d45105cbbf0ea086f522ba7ccaa543480d5dd36e4789c2c1b4ca9579304378b86e0.css" integrity="sha384-XnzDmTQB7ttRplEeOwB9RRBcu/DqCG9SK6fMqlQ0gNXdNuR4nCwbTKlXkwQ3i4bg"><meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="COVID-19 Dashboard" /><body>
+    <div class="base-body"><section id="header" class="site header">
+    <div class="header wrap"><span class="header left-side"><a class="site home" href="/nooraizad.github.io/"><span class="site name">Nooraizad Zailani</span></a></span>
+        <span class="header right-side"><div class="nav wrap"><nav class="nav"><a class="nav item" href="mailto:nooraizad57@gmail.com">Contact</a></nav></div></span></div></section><div id="content"><div class="article-container"><section class="article header">
+    <h1 class="article title">COVID-19 Dashboard</h1><p class="article date">Tuesday, April 21, 2020</p></section><article class="article markdown-body"><p>Hi everyone. I have created a simple and straightforward Tableau dashboard about COVID-19. The dashboard focuses on Malaysia data, but there is an overview of worldwide cases. The dashboard consists of two pages, the first page showing a world map with tooltips displaying the number of cases, deaths and recovered in each country. At the top of the map, there is the information of total cases, total deaths and total recovered worldwide. Below the map, there is a table with countries, cases, deaths and recovered cases. There is also a filter by country, to filter the page to get single or multiple countries.</p>
+
+<p><img src="https://nooraizad.github.io/covid1.png" alt="Page 1" /></p>
+
+<p>The next page of the dashboard focussing on Malaysia COVID-19 cases. Like the first page, there is a map of Malaysia. By hovering into different states, users can see the number of cases, deaths and recovered in each state. There are 3 line charts daily of total case, deaths and recovered in Malaysia. From this chart, we can observe the daily numbers of each case in Malaysia. Then, we have a table of state, total case, total death and mortality rate for each state. The mortality rate is defined as the number of death in a population. It is calculated from the number of death divided by the number of cases of COVID-19. Users can sort the table by clicking at the header name. </p>
+
+<p><img src="https://nooraizad.github.io/covid2.png" alt="Page 2" /></p>
+
+<p>On data collection, I am using python with BeautifulSoup package to crawl data from <a href="https://www.worldometers.info/coronavirus/ and">https://www.worldometers.info/coronavirus/ and</a> stored them in a csv file. For data on Malaysia cases, I crawled the data from various sites such as <a href="https://www.outbreak.my/ and ">https://www.outbreak.my/ and </a><a href="https://www.thestar.com.my/news/nation/2020/03/23/covid-19-current-situation-in-malaysia-updated-daily">https://www.thestar.com.my/news/nation/2020/03/23/covid-19-current-situation-in-malaysia-updated-daily</a>. The code can be found here <a href="https://github.com/nooraizad/Basic-Web-Scrapper">https://github.com/nooraizad/Basic-Web-Scrapper</a>. The csv files later will be used at Tableau to create the visualisation. </p>
+
+<p>For data refresh, I run the script daily. The script is run every day at 9:00 pm Malaysian time. I am looking method to run the script automatically, and then the data source will be consumed by Tableau automatically. Based on my findings, I can achieve this by setting up a pipeline in Azure Data Factory, host my Python script there and setup a schedule so that the pipeline will be run daily. I will be starting to explore Azure Data Factory and will share the findings. 
+The dashboard that I have created is simple and straightforward. But I believed it has the critical measurement that we would like to know about the COVID-19. I might add more features and measurement in the future. Any idea and suggestion are welcome. </p>
+
+<p>Kaggle is hosting COVID-19 Open Research Dataset Challenge. The competition challenge data scientist to provide meaningful insight about COVID-19. I think every data scientist should join the competition and contribute to the community on the findings. Together, we fight this pandemic by staying at home and play our role as a data scientist to help provide results and insight that will be beneficial to everyone. I am joining the competition and will be sharing my findings in my future post.</p>
+
+<p>Until next time, cheers.
+ </p>
+</article></div><section class="article navigation"><p><a class="link" href="nooraizad.github.io/posts/post01/"><span class="li">&rarr;</span>Hello world!</a></p></section></div><section id="footer" class="footer"><div class="footer-wrap">
+    <p class="copyright">©2019 Nooraizad.</p>
+    <p class="powerby"><span>Powered by </span><a href="https://gohugo.io" 
+        target="_blank">Hugo</a><span> and the </span><a href="https://themes.gohugo.io/hugo-notepadium/" 
+        target="_blank">Notepadium</a></p>
+</div></section></div>
+</body>
+
+</html>
