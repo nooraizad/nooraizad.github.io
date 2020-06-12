@@ -11,10 +11,10 @@
         
         <item>
             <title>A New Eid al-Fitr</title>
-            <link>https://nooraizad.github.io/posts/post05/</link>
+            <link>https://nooraizad.github.io/posts/anew_aidilfitri/</link>
             <pubDate>Sun, 31 May 2020 00:46:09 +0800</pubDate>
             
-            <guid>https://nooraizad.github.io/posts/post05/</guid>
+            <guid>https://nooraizad.github.io/posts/anew_aidilfitri/</guid>
             <description>Today is 7th of Shawwal in the Islamic calendar. We, Muslims celebrated Eid al-Fitr a week ago after fasting for one month during the holy month of Ramadan. We celebrated this day as a symbol of victory. It is the day when we usually will pray at the mosque in the morning along with takbirs. Then we will visit our families, relatives and friends, having a feast while reminding ourselves of those unfortunate.</description>
             <content type="html"><![CDATA[<p>Today is 7th of Shawwal in the Islamic calendar. We, Muslims celebrated Eid al-Fitr a week ago after fasting for one month during the holy month of Ramadan. We celebrated this day as a symbol of victory. It is the day when we usually will pray at the mosque in the morning along with takbirs. Then we will visit our families, relatives and friends, having a feast while reminding ourselves of those unfortunate. Children will be given token sums of money known as &lsquo;Duit raya&rsquo;. However, this year, Eid al-Fitr is different from the previous years.</p>
 
@@ -28,10 +28,10 @@
         
         <item>
             <title>Thoughts on Master of Data Science, University of Malaya</title>
-            <link>https://nooraizad.github.io/posts/post04/</link>
+            <link>https://nooraizad.github.io/posts/masterofdatascience_review/</link>
             <pubDate>Fri, 15 May 2020 01:23:37 +0800</pubDate>
             
-            <guid>https://nooraizad.github.io/posts/post04/</guid>
+            <guid>https://nooraizad.github.io/posts/masterofdatascience_review/</guid>
             <description>I have completed my Master of Data Science at the University of Malaya (UM). I finished them in 2 years. It was one hell of a journey and a memory that I will cherish for the rest of my life. In this post, i would like to share my opinion on the course and whether it is worth recommending. In the first section of this post, I would be giving an overview of the program, and why did I choose to study data science.</description>
             <content type="html"><![CDATA[<p>I have completed my Master of Data Science at the University of Malaya (UM). I finished them in 2 years. It was one hell of a journey and a memory that I will cherish for the rest of my life. In this post, i would like to share my opinion on the course and whether it is worth recommending. In the first section of this post, I would be giving an overview of the program, and why did I choose to study data science. Then, I would elaborate on things I learn during the course and bits of advice I would give to someone considering moving into data science.</p>
 
@@ -103,10 +103,10 @@ In conclusion, this course provides student on the techniques and skills needed 
         
         <item>
             <title>Of Faisal Tehrani, the Hardy Boys and the Dancing Men</title>
-            <link>https://nooraizad.github.io/posts/post03/</link>
+            <link>https://nooraizad.github.io/posts/faisal_hardyboys/</link>
             <pubDate>Fri, 24 Apr 2020 13:52:21 +0800</pubDate>
             
-            <guid>https://nooraizad.github.io/posts/post03/</guid>
+            <guid>https://nooraizad.github.io/posts/faisal_hardyboys/</guid>
             <description>A good friend of mine, Dr Syameem Raub wrote a post about books that got him hooked on reading. In his post, he mentioned that when we were together in a boarding school, I lend him my The Da Vinci Code written by Dan Brown. He described how he got into reading after being impressed with the book&amp;rsquo;s storyline, structure, plot and the elements of surprises presented by the author. Indeed The Da Vinci Code is a well-written book.</description>
             <content type="html"><![CDATA[<p>A good friend of mine, Dr Syameem Raub wrote a <a href="https://drsyameem.com/the-first-book-that-got-me-hooked-on-reading/">post</a> about books that got him hooked on reading. In his post, he mentioned that when we were together in a boarding school, I lend him my The Da Vinci Code written by Dan Brown. He described how he got into reading after being impressed with the book&rsquo;s storyline, structure, plot and the elements of surprises presented by the author. Indeed The Da Vinci Code is a well-written book. I enjoyed reading it too. You can never guess how is the ending going to be. Dr Syameem remarked how I seem unimpressed with the book. Well, I like the book, but at that time, I already immersed myself with novels and short stories written by Faisal Tehrani.</p>
 
@@ -124,10 +124,10 @@ In conclusion, this course provides student on the techniques and skills needed 
         
         <item>
             <title>COVID-19 Dashboard</title>
-            <link>https://nooraizad.github.io/posts/post02/</link>
+            <link>https://nooraizad.github.io/posts/covid19_dashboard/</link>
             <pubDate>Tue, 21 Apr 2020 15:22:17 +0800</pubDate>
             
-            <guid>https://nooraizad.github.io/posts/post02/</guid>
+            <guid>https://nooraizad.github.io/posts/covid19_dashboard/</guid>
             <description>Hi everyone. I have created a simple and straightforward Tableau dashboard about COVID-19. The dashboard focuses on Malaysia data, but there is an overview of worldwide cases. The dashboard can be access here. The dashboard consists of two pages, the first page showing a world map with tooltips displaying the number of cases, deaths and recovered in each country. At the top of the map, there is the information of total cases, total deaths and total recovered worldwide.</description>
             <content type="html"><![CDATA[<p>Hi everyone. I have created a simple and straightforward Tableau dashboard about COVID-19. The dashboard focuses on Malaysia data, but there is an overview of worldwide cases. The dashboard can be access <a href="https://public.tableau.com/views/Covid19Dashboard_15860728590360/Dashboard1?:display_count=y&amp;:origin=viz_share_link">here</a>. The dashboard consists of two pages, the first page showing a world map with tooltips displaying the number of cases, deaths and recovered in each country. At the top of the map, there is the information of total cases, total deaths and total recovered worldwide. Below the map, there is a table with countries, cases, deaths and recovered cases. There is also a filter by country, to filter the page to get single or multiple countries.</p>
 
@@ -151,10 +151,10 @@ The dashboard that I have created is simple and straightforward. But I believed 
         
         <item>
             <title>Hello world!</title>
-            <link>https://nooraizad.github.io/posts/post01/</link>
+            <link>https://nooraizad.github.io/posts/hello_world/</link>
             <pubDate>Thu, 02 Apr 2020 23:02:04 +0800</pubDate>
             
-            <guid>https://nooraizad.github.io/posts/post01/</guid>
+            <guid>https://nooraizad.github.io/posts/hello_world/</guid>
             <description>Welcome to nooraizad.com. My name is Muhammad Nooraizad. In this blog, I will be writing about data science, data analysis, personal project, my interest and personal lives. However, the content here will be focusing on data science as I have a deep interest in it. I enjoyed derive meaningful insight from data and presented the findings to the audience. Data science is an exciting field, and it keeps evolving every day as we are speaking.</description>
             <content type="html"><![CDATA[<p>Welcome to nooraizad.com. My name is Muhammad Nooraizad. In this blog, I will be writing about data science, data analysis, personal project, my interest and personal lives. However, the content here will be focusing on data science as I have a deep interest in it. I enjoyed derive meaningful insight from data and presented the findings to the audience. Data science is an exciting field, and it keeps evolving every day as we are speaking. We can see many application of data science that helped us to solve real life problem. I will be sharing my works here, hoping it can be beneficial to readers and also for me to keep track things I have learned.</p>
 
