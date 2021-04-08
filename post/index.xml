@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nooraizad Zailani site</title>
-    <link>https://nooraizad.github.io/</link>
-    <description>Recent content on Nooraizad Zailani site</description>
+    <title>Posts on Nooraizad Zailani site</title>
+    <link>https://nooraizad.github.io/post/</link>
+    <description>Recent content in Posts on Nooraizad Zailani site</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 08 Apr 2021 00:46:09 +0800</lastBuildDate>
     
-	<atom:link href="https://nooraizad.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nooraizad.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -62,26 +62,6 @@
       
       <guid>https://nooraizad.github.io/hello_world/</guid>
       <description>Welcome to nooraizad.com. My name is Muhammad Nooraizad. In this blog, I will be writing about data science, data analysis, personal project, my interest and personal lives. However, the content here will be focusing on data science as I have a deep interest in it. I enjoyed derive meaningful insight from data and presented the findings to the audience. Data science is an exciting field, and it keeps evolving every day as we are speaking.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://nooraizad.github.io/page/about/</link>
-      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
-      
-      <guid>https://nooraizad.github.io/page/about/</guid>
-      <description>Aspiring data scientist with a strong mathematic background and experience in data visualisations, ETL and data warehousing. Enthusiastic about exploring meaningful insight from a set of data and help business users in making decision. Solid analytic skills, highly objective, resourceful and dependable. Experienced working with clients from various industries.
- 🧑‍💻 Work experience Data Analyst Teleport, Kuala Lumpur – (February 2021 - present)
- Work in a team of Data Science and Insights as data analyst Build and maintain dashboard for various line of businesses Work with business users and stakeholders to understand their requirements and helps them in making impactful decision Tools or software used: Google BigQuery, Google Sheets, Google Data Studio, Tableau, SQL  Analyst, Solution Development Avanade, Kuala Lumpur – (April 2018 - January 2021)</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://nooraizad.github.io/page/contact/</link>
-      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
-      
-      <guid>https://nooraizad.github.io/page/contact/</guid>
-      <description>Contact Aenean ipsum justo, semper eu nisl ut, pretium tincidunt sem. Praesent et diam sit amet lacus lobortis dictum a id lacus. Quisque hendrerit sit amet turpis eu varius. Ut id lorem ac felis ultrices tincidunt. Pellentesque consequat arcu ac fringilla imperdiet. Phasellus pellentesque, sapien non pulvinar blandit, sapien ante aliquet felis, vel porttitor sapien ante in lacus. Fusce non urna aliquet, malesuada nibh vel, luctus urna. Phasellus ut lacus molestie, varius purus quis, malesuada lorem.</description>
     </item>
     
   </channel>
