@@ -1,66 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nooraizad Zailani site</title>
+    <title>nooraizad.com</title>
     <link>https://nooraizad.github.io/</link>
-    <description>Recent content on Nooraizad Zailani site</description>
+    <description>Recent content on nooraizad.com</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 08 Apr 2021 00:46:09 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 19 Apr 2021 00:10:09 +0800</lastBuildDate>
     
 	<atom:link href="https://nooraizad.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>I Read: Factfulness: Ten Reasons We&#39;re Wrong About the World – and Why Things Are Better Than You Think</title>
+      <link>https://nooraizad.github.io/07/</link>
+      <pubDate>Mon, 19 Apr 2021 00:10:09 +0800</pubDate>
+      
+      <guid>https://nooraizad.github.io/07/</guid>
+      <description>🚀 The Book in 3 Sentences  In this book, the author explored ten different instincts on how we access a situation or condition that we are going through. Hans Rosling, the author, was a world-renowned public speaker, physician, and academician and best known for using various data visualization techniques to explore world development issues. Must-read non-fiction simply because the author busts myths using facts and made the readers appreciate fact-checking on any news or articles they read.</description>
+    </item>
+    
+    <item>
       <title>Does Having Kids Make You Happier?</title>
-      <link>https://nooraizad.github.io/doeshavingkids/</link>
+      <link>https://nooraizad.github.io/06/</link>
       <pubDate>Thu, 08 Apr 2021 00:46:09 +0800</pubDate>
       
-      <guid>https://nooraizad.github.io/doeshavingkids/</guid>
-      <description>Hello and welcome to my blog. It has been some time since my last post. I have been busy with life and works and become lazy and unmotivated to write new articles. So for this year, I will try to write as much as I can. i set a goal of posting a blog once a week. I want to make myself accountable for this. I want to improve my writing and also share my opinions and thoughts of things that I follow and care about.</description>
+      <guid>https://nooraizad.github.io/06/</guid>
+      <description>Hello and welcome to my blog. It has been some time since my last post. I have been busy with life and works and have become lazy and unmotivated to write new articles. So for this year, I will try to write as much as I can. I set a goal of posting a blog once a week. I want to make myself accountable for this. I want to improve my writing and share my opinions and thoughts on things that I follow and care about.</description>
     </item>
     
     <item>
       <title>A New Eid al-Fitr</title>
-      <link>https://nooraizad.github.io/anew_aidilfitri/</link>
+      <link>https://nooraizad.github.io/05/</link>
       <pubDate>Sun, 31 May 2020 00:46:09 +0800</pubDate>
       
-      <guid>https://nooraizad.github.io/anew_aidilfitri/</guid>
+      <guid>https://nooraizad.github.io/05/</guid>
       <description>Today is 7th of Shawwal in the Islamic calendar. We, Muslims celebrated Eid al-Fitr a week ago after fasting for one month during the holy month of Ramadan. We celebrated this day as a symbol of victory. It is the day when we usually will pray at the mosque in the morning along with takbirs. Then we will visit our families, relatives and friends, having a feast while reminding ourselves of those unfortunate.</description>
     </item>
     
     <item>
       <title>Thoughts on Master of Data Science, University of Malaya</title>
-      <link>https://nooraizad.github.io/masterofdatascience_review/</link>
+      <link>https://nooraizad.github.io/04/</link>
       <pubDate>Fri, 15 May 2020 01:23:37 +0800</pubDate>
       
-      <guid>https://nooraizad.github.io/masterofdatascience_review/</guid>
+      <guid>https://nooraizad.github.io/04/</guid>
       <description>I have completed my Master of Data Science at the University of Malaya (UM). I finished them in 2 years. It was one hell of a journey and a memory that I will cherish for the rest of my life. In this post, i would like to share my opinion on the course and whether it is worth recommending. In the first section of this post, I would be giving an overview of the program, and why did I choose to study data science.</description>
     </item>
     
     <item>
       <title>Of Faisal Tehrani, the Hardy Boys and the Dancing Men</title>
-      <link>https://nooraizad.github.io/faisal_hardyboys/</link>
+      <link>https://nooraizad.github.io/03/</link>
       <pubDate>Fri, 24 Apr 2020 13:52:21 +0800</pubDate>
       
-      <guid>https://nooraizad.github.io/faisal_hardyboys/</guid>
+      <guid>https://nooraizad.github.io/03/</guid>
       <description>A good friend of mine, Dr Syameem Raub wrote a post about books that got him hooked on reading. In his post, he mentioned that when we were together in a boarding school, I lend him my The Da Vinci Code written by Dan Brown. He described how he got into reading after being impressed with the book&amp;rsquo;s storyline, structure, plot and the elements of surprises presented by the author. Indeed The Da Vinci Code is a well-written book.</description>
     </item>
     
     <item>
       <title>COVID-19 Dashboard</title>
-      <link>https://nooraizad.github.io/covid19_dashboard/</link>
+      <link>https://nooraizad.github.io/02/</link>
       <pubDate>Tue, 21 Apr 2020 15:22:17 +0800</pubDate>
       
-      <guid>https://nooraizad.github.io/covid19_dashboard/</guid>
+      <guid>https://nooraizad.github.io/02/</guid>
       <description>Hi everyone. I have created a simple and straightforward Tableau dashboard about COVID-19. The dashboard focuses on Malaysia data, but there is an overview of worldwide cases. The dashboard can be access here. The dashboard consists of two pages, the first page showing a world map with tooltips displaying the number of cases, deaths and recovered in each country. At the top of the map, there is the information of total cases, total deaths and total recovered worldwide.</description>
     </item>
     
     <item>
       <title>Hello world!</title>
-      <link>https://nooraizad.github.io/hello_world/</link>
+      <link>https://nooraizad.github.io/01/</link>
       <pubDate>Thu, 02 Apr 2020 23:02:04 +0800</pubDate>
       
-      <guid>https://nooraizad.github.io/hello_world/</guid>
+      <guid>https://nooraizad.github.io/01/</guid>
       <description>Welcome to nooraizad.com. My name is Muhammad Nooraizad. In this blog, I will be writing about data science, data analysis, personal project, my interest and personal lives. However, the content here will be focusing on data science as I have a deep interest in it. I enjoyed derive meaningful insight from data and presented the findings to the audience. Data science is an exciting field, and it keeps evolving every day as we are speaking.</description>
     </item>
     
